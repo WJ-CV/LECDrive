@@ -34,7 +34,6 @@ Long Chen<sup>3</sup>
 <a href="#citation"><strong>📌 Citation</strong></a>
 </p>
 
-Official repository for **LECDrive**. Code and usage instructions are being prepared for release.
 
 ## 📢 News
 

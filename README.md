@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5433cfea-d765-4f55-836b-e077bd92a6e9" width="900" alt="LECDrive">
+  <img src="https://github.com/user-attachments/assets/89797869-d06e-4a37-bb82-8163b33f7d1e" width="900" alt="LECDrive">
 </p>
+
 <h2 align="center">
   ✨Think Densely, Act Sparsely:✨<br>
   <sub>Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving</sub>

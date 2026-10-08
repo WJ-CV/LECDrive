@@ -1,9 +1,8 @@
 <h1 align="center">🚗 LECDrive</h1>
 
 <h2 align="center">
-Think Densely, Act Sparsely:<br>
-Latent Expert Cognitive Chains for<br>
-Vision-Language-Action Autonomous Driving
+  ✨Think Densely, Act Sparsely:✨<br>
+  <sub>Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving</sub>
 </h2>
 
 <p align="center">
@@ -38,9 +37,9 @@ Official repository for **LECDrive**. Code and usage instructions are being prep
 
 ## 📢 News
 
-- 🌐 Our [project page](https://wj-cv.github.io/LECDrive/) is available, including the method overview, experimental results, and driving demonstrations.
 - 🚧 Code, installation instructions, and training and evaluation scripts are coming soon.
-- 🎉 Accepted to **NeurIPS 2026**!!!
+- 🌐 Our [project page](https://wj-cv.github.io/LECDrive/) is available, including the method overview, experimental results, and driving demonstrations.
+- 🎉🎉🎉 Accepted to **NeurIPS 2026**
   
 ## 🔬 Project Overview
 

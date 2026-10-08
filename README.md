@@ -40,7 +40,7 @@ Official repository for **LECDrive**. Code and usage instructions are being prep
 
 - 🌐 Our [project page](https://wj-cv.github.io/LECDrive/) is available, including the method overview, experimental results, and driving demonstrations.
 - 🚧 Code, installation instructions, and training and evaluation scripts are coming soon.
-- 🎉 Accepted to **NeurIPS 2026**!
+- 🎉 Accepted to **NeurIPS 2026**!!!
   
 ## 🔬 Project Overview
 

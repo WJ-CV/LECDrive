@@ -19,8 +19,7 @@ Long Chen<sup>3</sup>
 <p align="center">
 <sup>1</sup> School of Artificial Intelligence, Shanxi University<br>
 <sup>2</sup> School of Artificial Intelligence, Tianjin University<br>
-<sup>3</sup> Xiaomi EV<br>
-<sup>†</sup> Corresponding author
+<sup>3</sup> Xiaomi EV &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sup>†</sup> Corresponding author
 </p>
 
 <p align="center">

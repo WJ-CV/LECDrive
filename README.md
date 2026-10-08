@@ -40,7 +40,8 @@ Official repository for **LECDrive**. Code and usage instructions are being prep
 
 - 🌐 Our [project page](https://wj-cv.github.io/LECDrive/) is available, including the method overview, experimental results, and driving demonstrations.
 - 🚧 Code, installation instructions, and training and evaluation scripts are coming soon.
-
+- 🎉 Accepted to **NeurIPS 2026**!
+  
 ## 🔬 Project Overview
 
 Autonomous driving requires an understanding of **visual appearance, semantic structure, and spatial geometry**. However, conventional vision-language-action models map dense, multi-view observations to sparse language responses or trajectory points. This mismatch can leave important scene details insufficiently supervised.

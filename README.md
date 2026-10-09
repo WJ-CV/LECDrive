@@ -8,14 +8,14 @@
 </h2>
 
 <p align="center">
-Jie Wang<sup>1</sup>,
-Guang Li<sup>3</sup>,
-Zhijian Huang<sup>3</sup>,
-Jinlong Li<sup>3</sup>,
-Chenxu Dang<sup>3</sup>,
-Hangjun Ye<sup>3</sup>,
-Yahong Han<sup>2,†</sup>,
-Long Chen<sup>3</sup>
+  <a href="https://scholar.google.com/citations?user=WjdWNi8AAAAJ" target="_blank">Jie Wang</a><sup>1</sup>,
+  Guang Li<sup>3</sup>,
+  Zhijian Huang<sup>3</sup>,
+  Jinlong Li<sup>3</sup>,
+  Chenxu Dang<sup>3</sup>,
+  Hangjun Ye<sup>3</sup>,
+  Yahong Han<sup>2,†</sup>,
+  Long Chen<sup>3</sup>
 </p>
 
 <p align="center">

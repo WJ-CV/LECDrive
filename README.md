@@ -180,7 +180,7 @@ Please follow the official evaluation protocol for your target NAVSIM version:
 - [NAVSIM v1.1](https://github.com/autonomousvision/navsim/tree/v1.1)
 - [NAVSIM v2.2](https://github.com/autonomousvision/navsim/tree/v2.2)
 
-Refer to the corresponding official documentation for dataset preparation, evaluation setup, and metric computation.
+Refer to the corresponding official documentation for dataset preparation, evaluation setup, and metric computation. Additional deployment examples and implementation references are available in our [`navsim_infer`](https://github.com/WJ-CV/LECDrive/tree/main/navsim_infer) directory.
 
 ## 🔗 Related Work
 

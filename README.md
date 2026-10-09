@@ -145,7 +145,7 @@ The following Hugging Face repositories are linked from our project page. Please
 | Model checkpoints | [wang-jie825/LECDrive](https://huggingface.co/wang-jie825/LECDrive) |
 | Dataset resources | [wang-jie825/LECDrive](https://huggingface.co/datasets/wang-jie825/LECDrive) |
 
-Detailed checkpoint descriptions, data preparation instructions, and benchmark-specific configurations will accompany the code release.
+The pretrained checkpoints for the three vision foundation models used in **LECDrive** are available for download on [Hugging Face](https://huggingface.co/wang-jie825/LECDrive/tree/main).
 
 ## 🏁 Getting Started
 

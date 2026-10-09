@@ -37,9 +37,10 @@
 
 ## 📢 News
 
-- 🚧 Code, installation instructions, and training and evaluation scripts are coming soon.
-- 🌐 Our [project page](https://wj-cv.github.io/LECDrive/) is available, including the method overview, experimental results, and driving demonstrations.
-- 🎉🎉🎉 Accepted to **NeurIPS 2026**
+- 🚧 Installation instructions and training and evaluation guides are coming soon.
+- 🚀 The **LECDrive source code** is now publicly available!
+- 🌐 Visit our [project page](https://wj-cv.github.io/LECDrive/) for the method overview, experimental results, and driving demonstrations.
+- 🎉 **LECDrive has been accepted to NeurIPS 2026!**
   
 ## 🔬 Project Overview
 
@@ -148,12 +149,38 @@ Detailed checkpoint descriptions, data preparation instructions, and benchmark-s
 
 ## 🏁 Getting Started
 
-The implementation and reproducibility instructions are being prepared.
+The training and inference scripts are now available. Follow the instructions below to train LECDrive, generate predictions, and evaluate its performance.
 
-- **Environment:** dependency versions and installation instructions will be provided.
-- **Data preparation:** dataset organization and preprocessing instructions will be provided.
-- **Training:** training scripts and configurations will be provided.
-- **Inference and evaluation:** benchmark-specific commands and evaluation instructions will be provided.
+### 1. Environment
+
+Dependency versions and environment installation instructions will be provided soon.
+
+### 2. Training
+
+Run the following command to launch training:
+
+```bash
+USE_DINOV3=True USE_SAM3=True USE_DEPTH=True CONFIG="folder_name" bash run_scripts/dist_sft_navsim.sh
+```
+
+Replace `folder_name` with the configuration folder name for your experiment.
+
+### 3. Run Inference
+
+Run the NAVSIM inference script to generate predictions:
+
+```bash
+bash run_scripts/inference_navsim.sh
+```
+
+### 4. Evaluation
+
+Please follow the official evaluation protocol for your target NAVSIM version:
+
+- [NAVSIM v1.1](https://github.com/autonomousvision/navsim/tree/v1.1)
+- [NAVSIM v2.2](https://github.com/autonomousvision/navsim/tree/v2.2)
+
+Refer to the corresponding official documentation for dataset preparation, evaluation setup, and metric computation.
 
 ## 🔗 Related Work
 

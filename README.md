@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=WjdWNi8AAAAJ" target="_blank">Jie Wang</a><sup>1</sup>,
+  <a href="https://scholar.google.com/citations?user=WjdWNi8AAAAJ" target="_blank">Jie Wang</a><sup>1,2</sup>,
   Guang Li<sup>3</sup>,
   Zhijian Huang<sup>3</sup>,
   Jinlong Li<sup>3</sup>,

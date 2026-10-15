@@ -14,13 +14,13 @@
   Jinlong Li<sup>3</sup>,
   Chenxu Dang<sup>3</sup>,
   Hangjun Ye<sup>3</sup>,
-  Yahong Han<sup>2,†</sup>,
+  Yahong Han<sup>1,†</sup>,
   Long Chen<sup>3</sup>
 </p>
 
 <p align="center">
-<sup>1</sup> School of Artificial Intelligence, Shanxi University<br>
-<sup>2</sup> School of Artificial Intelligence, Tianjin University<br>
+<sup>1</sup> School of Artificial Intelligence, Tianjin University<br>
+<sup>2</sup> School of Artificial Intelligence, Shanxi University<br>
 <sup>3</sup> Xiaomi EV &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sup>†</sup> Corresponding author
 </p>
 
